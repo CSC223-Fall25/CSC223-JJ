@@ -5,8 +5,6 @@ In this course, we will discuss advanced data structures and software engineerin
 
 
 ## **Question 1.** Computational Biology
-
-
 Create a class `DNA` at path `app/src/main/java/DNA.java` with the following static methods:
 
 ```java
