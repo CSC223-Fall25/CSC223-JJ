@@ -5,6 +5,10 @@
 
 For this assignment, you will implement <u>and test</u> a singly linked list, a doubly linked list, and a sorted doubly linked list. 
 
+
+## **Question 1.** Computational Biology
+Create a class `DNA` at path `app/src/main/java/DNA.java` with the following static methods:
+=======
 Using test-driven development, write tests for each method in the linked list interface _BEFORE_ implementing the methods.
 
 The tests for each class should be in a separate test class. For example, the tests for the `SinglyLinkedList` class should be in the `SinglyLinkedListTest` class within the `app/src/test/java/csc223/<your initials>` package.
